@@ -1,5 +1,3 @@
-package PRAKTISI;
-
 public class mydata <T>{
     private T data;
 
