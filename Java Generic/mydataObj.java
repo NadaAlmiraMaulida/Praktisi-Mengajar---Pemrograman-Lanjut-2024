@@ -1,5 +1,3 @@
-package PRAKTISI;
-
 public class mydataObj {
     public static void main(String[] args) {
         mydata<String> myDataa  = new mydata<>("nada");
