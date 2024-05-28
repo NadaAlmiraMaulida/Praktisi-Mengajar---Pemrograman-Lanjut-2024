@@ -1,0 +1,1 @@
+Customer{name='NADA', ticketNumber=1, movie='Movie A', seatNumber=1, paymentMethod='Credit Card'}
